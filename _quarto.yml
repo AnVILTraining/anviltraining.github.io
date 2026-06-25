@@ -1,29 +1,32 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "OTTR Template Website"
+  title: "AnVIL Training"
   navbar:
     left:
-    - text: ""
+    - text: Home
       href: index.qmd
       icon: fa-home
-    - text: 1. Setup
-      href: setup.qmd
-    - text: 2. Hosting
-      href: hosting.qmd
-    - text: Editing
-      href: editing.qmd
-    - text: 3. Style
-      href: style.qmd
-    - text: 4. Git Actions
-      href: git_actions.qmd
-    - text: More ottr docs
-      href: https://www.ottrproject.org/
+    - text: Quick Start
+      href: 1_quickstart.qmd
+      icon: glyphicon-flash
+    - text: Vignettes
+      href: 2_vignettes.qmd
+      icon: glyphicon-book
+    - text: Events
+      href: 3_events.qmd
+      icon: glyphicon-calendar
+    - text: Videos
+      href: 4_videos.qmd
+      icon: glyphicon-play-circle
+    - text: Get Help
+      href: 5_help.qmd
+      icon: glyphicon-question-sign
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
