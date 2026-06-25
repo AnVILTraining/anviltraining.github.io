@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "AnVIL Training",
     "section": "",
-    "text": "About\nThis website was created to host all things AnVIL Training!\n\n\n\n\n\n\nNote\n\n\n\nAnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\n\n\nThis page is under construction. Details coming soon :)"
+    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!\nThis page is under construction. Details coming soon :)"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "AnVIL Training",
+    "section": "",
+    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!\nThis page is under construction. Details coming soon :)"
   },
   {
     "objectID": "videos.html",
@@ -14,22 +21,8 @@
     "text": "This page is under construction. Details coming soon :)"
   },
   {
-    "objectID": "videos.html#videos",
-    "href": "videos.html#videos",
-    "title": "Videos",
-    "section": "",
-    "text": "This page is under construction. Details coming soon :)"
-  },
-  {
     "objectID": "quickstart.html",
     "href": "quickstart.html",
-    "title": "Quick Start Guide",
-    "section": "",
-    "text": "This page is under construction. Details coming soon :)"
-  },
-  {
-    "objectID": "quickstart.html#getting-started",
-    "href": "quickstart.html#getting-started",
     "title": "Quick Start Guide",
     "section": "",
     "text": "This page is under construction. Details coming soon :)"
@@ -53,14 +46,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Check out https://anvilproject.org/events for the most up to date training events."
-  },
-  {
-    "objectID": "events.html#events",
-    "href": "events.html#events",
-    "title": "Events",
-    "section": "",
-    "text": "Check out https://anvilproject.org/events for the most up to date training events."
+    "text": "Check out the AnVIL Events Page for the most up to date training events."
   },
   {
     "objectID": "events.html#mark-your-calendar",
@@ -72,13 +58,6 @@
   {
     "objectID": "help.html",
     "href": "help.html",
-    "title": "Getting Help",
-    "section": "",
-    "text": "This page is under construction. Details coming soon :)"
-  },
-  {
-    "objectID": "help.html#getting-help",
-    "href": "help.html#getting-help",
     "title": "Getting Help",
     "section": "",
     "text": "This page is under construction. Details coming soon :)"
