@@ -1,0 +1,15 @@
+---
+title: "Events"
+output: html_document
+---
+
+## Events
+
+Check out https://anvilproject.org/events for the most up to date training events.
+
+## Mark your calendar
+
+These events have not been officially announced on the [AnVIL Events Page](https://anvilproject.org/events), but you might want to mark your calendar!
+
+- AnVIL 101 Virtual Workshop: Wednesday, July 29, 2026
+- AnVIL 101 Virtual Workshop: Tuesday, October 27, 2026

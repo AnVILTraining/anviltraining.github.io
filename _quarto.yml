@@ -10,19 +10,19 @@ website:
       href: index.qmd
       icon: fa-home
     - text: Quick Start
-      href: 1_quickstart.qmd
+      href: quickstart.qmd
       icon: glyphicon-flash
     - text: Vignettes
-      href: 2_vignettes.qmd
+      href: vignettes.qmd
       icon: glyphicon-book
     - text: Events
-      href: 3_events.qmd
+      href: events.qmd
       icon: glyphicon-calendar
     - text: Videos
-      href: 4_videos.qmd
+      href: videos.qmd
       icon: glyphicon-play-circle
     - text: Get Help
-      href: 5_help.qmd
+      href: help.qmd
       icon: glyphicon-question-sign
 
 format:
