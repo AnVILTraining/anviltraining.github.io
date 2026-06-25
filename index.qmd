@@ -4,12 +4,10 @@ output:
   html_document
 ---
 
-### **About**
+## About
 
-This website was created to host all things AnVIL Training! 
+[AnVIL](https://anvilproject.org/) is NHGRI's Genomic Data Science Analysis, Visualization, and Informatics Lab-Space. 
 
-::: {.callout-note icon=false}
-AnVIL is NHGRI's Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.
-:::
+This site hosts all things AnVIL Training! 
  
 This page is under construction. Details coming soon :)

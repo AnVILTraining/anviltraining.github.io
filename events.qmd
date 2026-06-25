@@ -3,9 +3,7 @@ title: "Events"
 output: html_document
 ---
 
-## Events
-
-Check out https://anvilproject.org/events for the most up to date training events.
+Check out the [AnVIL Events Page](https://anvilproject.org/events) for the most up to date training events.
 
 ## Mark your calendar
 
