@@ -32,7 +32,21 @@
     "href": "vignettes.html",
     "title": "AnVIL Vignettes",
     "section": "",
-    "text": "This page is under construction. Details coming soon :)"
+    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 26 June 2026."
+  },
+  {
+    "objectID": "vignettes.html#anvil-materials",
+    "href": "vignettes.html#anvil-materials",
+    "title": "AnVIL Vignettes",
+    "section": "AnVIL Materials",
+    "text": "AnVIL Materials"
+  },
+  {
+    "objectID": "vignettes.html#gdscn-materials",
+    "href": "vignettes.html#gdscn-materials",
+    "title": "AnVIL Vignettes",
+    "section": "GDSCN Materials",
+    "text": "GDSCN Materials"
   },
   {
     "objectID": "events.html",
