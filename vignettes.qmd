@@ -3,4 +3,56 @@ title: "AnVIL Vignettes"
 output: html_document
 ---
 
-This page is under construction. Details coming soon :)
+While you can find core documentation at <https://anvilproject.org/learn> and <https://support.terra.bio>, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!
+
+This page was last updated on `r format(Sys.time(), "%d %B %Y")`.
+
+## AnVIL Materials
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+source("https://raw.githubusercontent.com/fhdsl/AnVIL_Collection/refs/heads/main/scripts/render_collection.R")
+
+DT::datatable(
+  make_collection_table(infile = "https://raw.githubusercontent.com/fhdsl/AnVIL_Collection/refs/heads/main/resources/collection.tsv", 
+                        exclude_gdscn_from_table = TRUE, 
+                        kable = FALSE),
+  escape = FALSE,
+  # Make cell values html enabled
+  rownames = FALSE,
+  # Remove 1, 2, 3 labels
+  options = list(
+    autowidth = TRUE,
+    search = list(regex = TRUE),
+    pageLength = 100, # Show 100 results
+    dom = 'ft', # Don't allow to change how many results are displayed
+    # dom = "Qlfrtip",
+    # searchBuilder = TRUE,
+    search = list(return = TRUE)
+  )
+)
+```
+
+## GDSCN Materials
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+source("https://raw.githubusercontent.com/fhdsl/AnVIL_Collection/refs/heads/main/scripts/render_collection.R")
+
+DT::datatable(
+  make_collection_table(infile = "https://raw.githubusercontent.com/fhdsl/AnVIL_Collection/refs/heads/main/resources/collection.tsv", 
+                        make_gsdcn_only_table = TRUE, 
+                        kable = FALSE),
+  escape = FALSE,
+  # Make cell values html enabled
+  rownames = FALSE,
+  # Remove 1, 2, 3 labels
+  options = list(
+    autowidth = TRUE,
+    search = list(regex = TRUE),
+    pageLength = 100, # Show 100 results
+    dom = 'ft', # Don't allow to change how many results are displayed
+    # dom = "Qlfrtip",
+    # searchBuilder = TRUE,
+    search = list(return = TRUE)
+  )
+)
+```
