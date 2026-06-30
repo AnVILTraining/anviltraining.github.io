@@ -3,10 +3,30 @@ title: "Getting Help"
 output: html_document
 ---
 
-You can find core documentation at <https://anvilproject.org/learn> and <https://support.terra.bio>.
+You can get help at our Support Forum as well as through AnVIL's component platforms. You can find core documentation at <https://anvilproject.org/learn>.
 
-If you have a specific question, posting on the Support Forum is the best way for us to crowd source your question. You might also find your answer there!
+##AnVIL Support Forum
+
+To ask a question or provide feedback, please feel free to reach out to us on the AnVIL Support Forum. You might also find your answer there!
 
 [AnVIL Support Forum](https://help.anvilproject.org){.btn .btn-outline-primary .btn role="button"} 
 
+## AnVIL Training
+
+The AnVIL Project offers in-person training on a limited basis. Use the training request form to apply.
+
+[Request AnVIL Training](https://docs.google.com/forms/d/e/1FAIpQLSc8HDE31CC2jCQceigfbE8NJpp0So8ValzBb6xots-IHvwmZw/viewform){.btn .btn-outline-primary .btn role="button"} 
+
+## Getting Help with AnVIL Components and Tools
+
+Refer to the following table for help links for AnVIL platform components and tools.
+
+| **Component** | **Help Links**                                                                                                            |
+|---------------|---------------------------------------------------------------------------------------------------------------------------|
+| Bioconductor  | [Help Hub](http://bioconductor.org/help/), [Help Forum](https://support.bioconductor.org/)                                |
+| Dockstore     | [Help Forum](https://discuss.dockstore.org/)                                                                              |
+| Galaxy        | [Help Forum](https://help.galaxyproject.org/), [Chat](https://gitter.im/galaxyproject)                                    |
+| Terra         | [Support Hub](https://support.terra.bio/hc/en-us), [Community Forum](https://support.terra.bio/hc/en-us/community/topics) |
+
 If your question is more sensitive, please email our [help desk](help@lists.anvilproject.org).
+
