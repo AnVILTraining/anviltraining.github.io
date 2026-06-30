@@ -67,20 +67,27 @@
     "href": "help.html",
     "title": "Getting Help",
     "section": "",
-    "text": "You can get help at our Support Forum as well as through AnVIL’s component platforms. You can find core documentation at https://anvilproject.org/learn.\n##AnVIL Support Forum\nTo ask a question or provide feedback, please feel free to reach out to us on the AnVIL Support Forum. You might also find your answer there!\nAnVIL Support Forum"
+    "text": "You can get help at our Support Forum as well as through AnVIL’s component platforms. You can find core documentation at https://anvilproject.org/learn."
   },
   {
-    "objectID": "help.html#anvil-training",
-    "href": "help.html#anvil-training",
+    "objectID": "help.html#anvil-support-forum",
+    "href": "help.html#anvil-support-forum",
     "title": "Getting Help",
-    "section": "AnVIL Training",
-    "text": "AnVIL Training\nThe AnVIL Project offers in-person training on a limited basis. Use the training request form to apply.\nRequest AnVIL Training"
+    "section": "AnVIL Support Forum",
+    "text": "AnVIL Support Forum\nTo ask a question or provide feedback, please feel free to reach out to us on the AnVIL Support Forum. You might also find your answer there!\nAnVIL Support Forum"
+  },
+  {
+    "objectID": "help.html#host-an-anvil-training",
+    "href": "help.html#host-an-anvil-training",
+    "title": "Getting Help",
+    "section": "Host an AnVIL Training",
+    "text": "Host an AnVIL Training\nThe AnVIL Project offers in-person training on a limited basis. Use the training request form to apply.\nRequest AnVIL Training"
   },
   {
     "objectID": "help.html#getting-help-with-anvil-components-and-tools",
     "href": "help.html#getting-help-with-anvil-components-and-tools",
     "title": "Getting Help",
     "section": "Getting Help with AnVIL Components and Tools",
-    "text": "Getting Help with AnVIL Components and Tools\nRefer to the following table for help links for AnVIL platform components and tools.\n\n\n\nComponent\nHelp Links\n\n\n\n\nBioconductor\nHelp Hub, Help Forum\n\n\nDockstore\nHelp Forum\n\n\nGalaxy\nHelp Forum, Chat\n\n\nTerra\nSupport Hub, Community Forum\n\n\n\nIf your question is more sensitive, please email our help desk."
+    "text": "Getting Help with AnVIL Components and Tools\nRefer to the following table for help links for AnVIL platform components and tools.\n\n\n\nComponent\nHelp Links\n\n\n\n\nBioconductor\nHelp Hub, Help Forum\n\n\nDockstore\nHelp Forum\n\n\nGalaxy\nHelp Forum, Chat\n\n\nTerra\nSupport Hub, Community Forum\n\n\n\n\nIf your question is more sensitive, please email our help desk."
   }
 ]
