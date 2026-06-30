@@ -1,6 +1,0 @@
----
-title: "Quick Start Guide"
-output: html_document
----
-
-This page is under construction. Details coming soon :)

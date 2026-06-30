@@ -9,9 +9,6 @@ website:
     - text: Home
       href: index.qmd
       icon: fa-home
-    - text: Quick Start
-      href: quickstart.qmd
-      icon: glyphicon-flash
     - text: Vignettes
       href: vignettes.qmd
       icon: glyphicon-book
@@ -22,7 +19,7 @@ website:
       href: videos.qmd
       icon: glyphicon-play-circle
     - text: Get Help
-      href: help.qmd
+      href: https://anvilproject.org/help
       icon: glyphicon-question-sign
 
 format:
