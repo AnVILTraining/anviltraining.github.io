@@ -5,13 +5,13 @@ output: html_document
 
 You can get help at our Support Forum as well as through AnVIL's component platforms. You can find core documentation at <https://anvilproject.org/learn>.
 
-##AnVIL Support Forum
+## AnVIL Support Forum
 
 To ask a question or provide feedback, please feel free to reach out to us on the AnVIL Support Forum. You might also find your answer there!
 
 [AnVIL Support Forum](https://help.anvilproject.org){.btn .btn-outline-primary .btn role="button"} 
 
-## AnVIL Training
+## Host an AnVIL Training
 
 The AnVIL Project offers in-person training on a limited basis. Use the training request form to apply.
 
