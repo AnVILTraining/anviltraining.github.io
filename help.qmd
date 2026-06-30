@@ -28,5 +28,7 @@ Refer to the following table for help links for AnVIL platform components and to
 | Galaxy        | [Help Forum](https://help.galaxyproject.org/), [Chat](https://gitter.im/galaxyproject)                                    |
 | Terra         | [Support Hub](https://support.terra.bio/hc/en-us), [Community Forum](https://support.terra.bio/hc/en-us/community/topics) |
 
+<br>
+
 If your question is more sensitive, please email our [help desk](help@lists.anvilproject.org).
 
