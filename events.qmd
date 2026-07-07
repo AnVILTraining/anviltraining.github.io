@@ -3,7 +3,7 @@ title: "Events"
 output: html_document
 ---
 
-Check out the [AnVIL Events Page](https://anvilproject.org/events) for the most up to date training events.
+AnVIL offers several in-person and virtual training events. Check out the [AnVIL Events Page](https://anvilproject.org/events) for the most up to date training events.
 
 ## Mark your calendar
 
