@@ -21,6 +21,7 @@ website:
     - text: Get Help
       href: https://anvilproject.org/help
       icon: glyphicon-question-sign
+  favicon: assets/AnVIL/anvil_favicon.ico
 
 format:
   html:
