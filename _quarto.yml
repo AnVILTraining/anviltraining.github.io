@@ -4,7 +4,9 @@ project:
 
 website:
   title: "AnVIL Training"
+  favicon: assets/AnVIL/anvil_favicon.ico
   navbar:
+    logo: assets/AnVIL/logo-anvil-img.png
     left:
     - text: Home
       href: index.qmd
@@ -21,7 +23,6 @@ website:
     - text: Get Help
       href: https://anvilproject.org/help
       icon: glyphicon-question-sign
-  favicon: assets/AnVIL/anvil_favicon.ico
 
 format:
   html:
