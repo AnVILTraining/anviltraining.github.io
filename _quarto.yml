@@ -26,6 +26,6 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: [yeti, assets/AnVIL/anvil.scss]
     css: styles.css
     toc: true
