@@ -1,3 +1,20 @@
 /*-- scss:defaults --*/
-$primary: #035C94;          /*-- navbar background, links --*/
+$primary: #035C94;          // navbar background, links
 $headings-color: #012840;
+
+/*-- scss:rules --*/
+
+// container for logo
+.navbar-brand.navbar-brand-logo {
+  background-color: white;
+  border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  align-items: center;
+  padding: 1px;
+}
+
+// logo image
+.navbar-logo {
+  padding: 1px;
+}
+
