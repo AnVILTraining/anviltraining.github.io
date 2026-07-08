@@ -4,7 +4,9 @@ project:
 
 website:
   title: "AnVIL Training"
+  favicon: assets/AnVIL/anvil_favicon.ico
   navbar:
+    logo: assets/AnVIL/logo-anvil-img.png
     left:
     - text: Home
       href: index.qmd
@@ -24,6 +26,6 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: [yeti, assets/AnVIL/anvil.scss]
     css: styles.css
     toc: true
