@@ -10,4 +10,15 @@ output:
 
 This site hosts all things AnVIL Training! 
  
-This page is under construction. Details coming soon :)
+## Get Started
+
+- Get started on AnVIL with our AnVIL 101 virtual workshop (check back for details soon!)
+- Find help through our [community support forum](https://help.anvilproject.org/)
+- Check out our [upcoming events](https://anvilproject.org/events) for additional training opportunities, or browse our [docs](https://anvilproject.org/learn), [tutorials](tutorials.qmd) and [videos](videos.qmd) to start learning on your own.
+
+## Support for Groups
+
+- Join our [AnVIL Champions](https://anvilproject.org/anvil-champions) program, where we train community members to become local AnVIL experts.
+- We offer in-person group training events on a limited basis. Use the [training request form](https://docs.google.com/forms/d/e/1FAIpQLSc8HDE31CC2jCQceigfbE8NJpp0So8ValzBb6xots-IHvwmZw/viewform) to apply.
+- Learn how to administer a team on AnVIL with…[do we have a good resource?]
+
