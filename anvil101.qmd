@@ -3,4 +3,12 @@ title: "AnVIL 101"
 output: html_document
 ---
 
-This page is under construction. Details coming soon :)
+Recurring virtual workshop introducing the basics of AnVIL.
+
+Upcoming offerings:
+
+- Wednesday, July 29, 2026
+- Tuesday, October 27, 2026
+
+Check back soon for more information!
+
