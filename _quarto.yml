@@ -11,8 +11,8 @@ website:
     - text: Home
       href: index.qmd
       icon: fa-home
-    - text: Vignettes
-      href: vignettes.qmd
+    - text: Tutorials
+      href: tutorials.qmd
       icon: glyphicon-book
     - text: Events
       href: events.qmd
