@@ -4,56 +4,28 @@
     "href": "index.html",
     "title": "AnVIL Training",
     "section": "",
-    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!\nThis page is under construction. Details coming soon :)"
+    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "AnVIL Training",
     "section": "",
-    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!\nThis page is under construction. Details coming soon :)"
+    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
   },
   {
-    "objectID": "videos.html",
-    "href": "videos.html",
-    "title": "Videos",
-    "section": "",
-    "text": "This page is under construction. Details coming soon :)"
+    "objectID": "index.html#get-started",
+    "href": "index.html#get-started",
+    "title": "AnVIL Training",
+    "section": "Get Started",
+    "text": "Get Started\n\nGet started on AnVIL with our AnVIL 101 virtual workshop (check back for details soon!)\nFind help through our community support forum\nAsk questions live at our monthly virtual AnVIL Demos\nCheck out our upcoming events for additional training opportunities, or browse our docs, tutorials and videos to start learning on your own"
   },
   {
-    "objectID": "vignettes.html",
-    "href": "vignettes.html",
-    "title": "AnVIL Vignettes",
-    "section": "",
-    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 09 July 2026."
-  },
-  {
-    "objectID": "vignettes.html#anvil-materials",
-    "href": "vignettes.html#anvil-materials",
-    "title": "AnVIL Vignettes",
-    "section": "AnVIL Materials",
-    "text": "AnVIL Materials"
-  },
-  {
-    "objectID": "vignettes.html#gdscn-materials",
-    "href": "vignettes.html#gdscn-materials",
-    "title": "AnVIL Vignettes",
-    "section": "GDSCN Materials",
-    "text": "GDSCN Materials"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "AnVIL offers several in-person and virtual training events. Check out the AnVIL Events Page for the most up to date training events."
-  },
-  {
-    "objectID": "events.html#mark-your-calendar",
-    "href": "events.html#mark-your-calendar",
-    "title": "Events",
-    "section": "Mark your calendar",
-    "text": "Mark your calendar\nThese events have not been officially announced on the AnVIL Events Page, but you might want to mark your calendar!\n\nAnVIL 101 Virtual Workshop: Wednesday, July 29, 2026\nAnVIL 101 Virtual Workshop: Tuesday, October 27, 2026"
+    "objectID": "index.html#support-for-groups",
+    "href": "index.html#support-for-groups",
+    "title": "AnVIL Training",
+    "section": "Support for Groups",
+    "text": "Support for Groups\n\nJoin our AnVIL Champions program, where we train community members to become local AnVIL experts"
   },
   {
     "objectID": "help.html",
@@ -82,5 +54,47 @@
     "title": "Getting Help",
     "section": "Getting Help with AnVIL Components and Tools",
     "text": "Getting Help with AnVIL Components and Tools\nRefer to the following table for help links for AnVIL platform components and tools.\n\n\n\nComponent\nHelp Links\n\n\n\n\nBioconductor\nHelp Hub, Help Forum\n\n\nDockstore\nHelp Forum\n\n\nGalaxy\nHelp Forum, Chat\n\n\nTerra\nSupport Hub, Community Forum\n\n\n\n\nIf your question is more sensitive, please email our help desk."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "AnVIL offers several in-person and virtual training events. Check out the AnVIL Events Page for the most up to date training events."
+  },
+  {
+    "objectID": "events.html#mark-your-calendar",
+    "href": "events.html#mark-your-calendar",
+    "title": "Events",
+    "section": "Mark your calendar",
+    "text": "Mark your calendar\nThese events have not been officially announced on the AnVIL Events Page, but you might want to mark your calendar!\n\nAnVIL 101 Virtual Workshop: Wednesday, July 29, 2026\nAnVIL 101 Virtual Workshop: Tuesday, October 27, 2026"
+  },
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "This page is under construction. Details coming soon :)"
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "AnVIL Tutorials",
+    "section": "",
+    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 13 July 2026."
+  },
+  {
+    "objectID": "tutorials.html#anvil-materials",
+    "href": "tutorials.html#anvil-materials",
+    "title": "AnVIL Tutorials",
+    "section": "AnVIL Materials",
+    "text": "AnVIL Materials"
+  },
+  {
+    "objectID": "tutorials.html#gdscn-materials",
+    "href": "tutorials.html#gdscn-materials",
+    "title": "AnVIL Tutorials",
+    "section": "GDSCN Materials",
+    "text": "GDSCN Materials"
   }
 ]
