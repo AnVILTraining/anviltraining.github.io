@@ -3,4 +3,35 @@ title: "AnVIL Community Conference"
 output: html_document
 ---
 
-This page is under construction. Details coming soon :)
+Join us in-person or virtually at our annual AnVIL Community Conference (ACC) to hear the latest and greatest of genomics analysis in the cloud, get hands-on experience with AnVIL, and meet the AnVIL community!
+
+
+## ACC 2026: Aug 31-Sept 1 -- Cambridge, MA
+
+See the [event announcement](https://anvilproject.org/events/anvil2026-community-conference) for details and registration
+
+[![](/assets/acc2026-handout.webp){width=80% fig-align="center"}](https://anvilproject.org/events/anvil2026-community-conference)
+
+Join the Mailing List: [https://lists.anvilproject.org/lists/acc2026.lists.anvilproject.org](https://lists.anvilproject.org/lists/acc2026.lists.anvilproject.org)
+
+**Deadlines**:
+
+- Registration: Aug 12
+- Abstract Submission
+  - Oral presentations: July 15
+  - Poster presentations: Aug 10
+  
+More details are available in the [ACC 2026 event announcement](https://anvilproject.org/events/anvil2026-community-conference)
+
+## Past conferences
+
+### ACC 2025: Sept 3-5 -- Nashville, TN
+
+- [Event details](https://anvilproject.org/events/anvil2025-community-conference)
+- [CoFest](https://jhudatascience.org/AnVIL_CoFests_2025/)
+
+### ACC 2024: Nov 12-13 -- Cold Spring Harbor, NY
+
+- [Event details](https://anvilproject.org/events/anvil2024-community-conference)
+- [CoFest](https://jhudatascience.org/AnVIL_CoFests_2024/)
+
