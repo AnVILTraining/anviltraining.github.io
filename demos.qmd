@@ -41,7 +41,7 @@ We’d love to showcase how you use AnVIL! If you’re interested in presenting 
 
 - January 15: [Getting Started and FastQC with Galaxy on AnVIL](https://help.anvilproject.org/t/anvil-demo-getting-started-with-your-analyses-and-running-fastqc-with-galaxy-in-anvil-on-january-15-2025/253)
 - February 19: [Open Discussion Forum](https://help.anvilproject.org/t/anvil-demo-open-discussion-forum-on-february-19-2025/266)
-- March 19: [Variant Analysis with VRS Tookit](https://help.anvilproject.org/t/anvil-demo-variant-analysis-using-the-vrs-toolkit-in-anvil-on-march-19-2025/284)
+- March 19: [Variant Analysis with VRS Toolkit](https://help.anvilproject.org/t/anvil-demo-variant-analysis-using-the-vrs-toolkit-in-anvil-on-march-19-2025/284)
 - April 16: [Open Discussion Forum](https://help.anvilproject.org/t/anvil-demo-open-discussion-forum-on-april-16-2025/294)
 - June 18: [Getting Started on AnVIL](https://help.anvilproject.org/t/anvil-demo-getting-started-on-anvil-on-june-18-2025/310)
 - July 16: [Open Discussion Forum](https://help.anvilproject.org/t/anvil-demo-open-discussion-forum-on-july-16-2025/314)
