@@ -12,7 +12,7 @@ This site hosts all things AnVIL Training!
  
 ## Get Started
 
-- Get started on AnVIL with our AnVIL 101 virtual workshop (check back for details soon!)
+- Get started on AnVIL with our [AnVIL 101 virtual workshop](anvil101.qmd)
 - Find help through our [community support forum](https://help.anvilproject.org/)
 - Ask questions live at our monthly [virtual AnVIL Demos](demos.qmd)
 - Check out our [upcoming events](https://anvilproject.org/events) for additional training opportunities, or browse our [docs](https://anvilproject.org/learn), [tutorials](tutorials.qmd) and [videos](videos.qmd) to start learning on your own
