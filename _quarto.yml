@@ -15,8 +15,16 @@ website:
       href: tutorials.qmd
       icon: glyphicon-book
     - text: Events
-      href: events.qmd
       icon: glyphicon-calendar
+      menu:
+        - text: AnVIL 101
+          href: anvil101.qmd
+        - text: AnVIL Demos
+          href: demos.qmd
+        - text: AnVIL Community Conference
+          href: acc.qmd
+        - text: More Events
+          href: events.qmd
     - text: Videos
       href: videos.qmd
       icon: glyphicon-play-circle

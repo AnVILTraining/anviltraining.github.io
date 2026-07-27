@@ -1,0 +1,14 @@
+---
+title: "AnVIL 101"
+output: html_document
+---
+
+Recurring virtual workshop introducing the basics of AnVIL
+
+Offerings:
+
+- [Wednesday, July 29, 2026](https://anvilproject.org/events/anvil2026-101-virtual-workshop)
+- [Tuesday, October 27, 2026](https://anvilproject.org/events/anvil2026-october-101-virtual-workshop)
+
+Check back soon for more information!
+
