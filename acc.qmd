@@ -27,7 +27,7 @@ More details available in the [ACC 2026 event announcement](https://anvilproject
 
 ### ACC 2025: Sept 3-5 -- Nashville, TN
 
-- [Conference Report](https://anvilproject.org/news/2025/10/28/acc-2025-conference-report)
+- [Conference report](https://anvilproject.org/news/2025/10/28/acc-2025-conference-report)
 - [Recordings](https://www.youtube.com/playlist?list=PL6aYJ_0zJ4uDbUn28tves8OKwrDB7dN32) and [slides](https://drive.google.com/file/d/1w71hZewgD4ulA8Js_1Hnheul_khftvb4/view?usp=sharing)
 - [Event details](https://anvilproject.org/events/anvil2025-community-conference)
 - [CoFest](https://jhudatascience.org/AnVIL_CoFests_2025/)
