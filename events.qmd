@@ -3,6 +3,6 @@ title: "More Events"
 output: html_document
 ---
 
-AnVIL provides workshops and demos at several genomics-focused events, including conferences such as the American Society of Human Genetics Annual Meeting, the Galaxy and Bioconductor Community Conference, and various Cold Spring Harbor Lab meetings.
+AnVIL provides workshops and demos at several genomics-focused events. These include conferences such as the American Society of Human Genetics Annual Meeting, the Galaxy and Bioconductor Community Conference, and various Cold Spring Harbor Lab meetings.
 
 Check out the [AnVIL Events Page](https://anvilproject.org/events) for the most up to date list of events.
