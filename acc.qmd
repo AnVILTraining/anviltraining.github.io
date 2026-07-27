@@ -27,11 +27,15 @@ More details available in the [ACC 2026 event announcement](https://anvilproject
 
 ### ACC 2025: Sept 3-5 -- Nashville, TN
 
+- [Conference Report](https://anvilproject.org/news/2025/10/28/acc-2025-conference-report)
+- [Recordings](https://www.youtube.com/playlist?list=PL6aYJ_0zJ4uDbUn28tves8OKwrDB7dN32) and [slides](https://drive.google.com/file/d/1w71hZewgD4ulA8Js_1Hnheul_khftvb4/view?usp=sharing)
 - [Event details](https://anvilproject.org/events/anvil2025-community-conference)
 - [CoFest](https://jhudatascience.org/AnVIL_CoFests_2025/)
 
 ### ACC 2024: Nov 12-13 -- Cold Spring Harbor, NY
 
+- [Conference report](https://anvilproject.org/news/2025/01/21/acc-2024-conference-report)
+- [Recordings](https://www.youtube.com/playlist?list=PL6aYJ_0zJ4uA6ydpiPQwAH-v4BfVO0hcw) and [slides](https://docs.google.com/presentation/d/1giB7fMVcOHAW9M5ooVbfkoY2rXB3oH-PuuThT-nOZ3g/edit?usp=sharing)
 - [Event details](https://anvilproject.org/events/anvil2024-community-conference)
 - [CoFest](https://jhudatascience.org/AnVIL_CoFests_2024/)
 
