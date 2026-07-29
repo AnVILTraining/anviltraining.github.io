@@ -15,9 +15,11 @@ After the demonstration, we’ll open up the floor to answer questions about the
 
 Announcements about upcoming AnVIL Demos will be posted on our [community forum](https://help.anvilproject.org/c/demos/5). After the Demo, the post will be updated with a link to a recording and a summary of the Q&As. Check out the latest topic for information about our next Demo, or browse old topics to view previous Demos that interest you.
 
-[Sign up for future Demos](https://forms.gle/7CcaLE9AM7FrYqpP7)
+[Sign up for future Demos](https://forms.gle/7CcaLE9AM7FrYqpP7){.btn .btn-primary}
 
-You can also sign up to hear about future AnVIL Demos as well as general AnVIL announcements at [bit.ly/anvil-mailing-list](http://bit.ly/anvil-mailing-list)
+You can also hear about future AnVIL Demos as well as general AnVIL announcements if you
+
+[Join the AnVIL Mailing List](http://bit.ly/anvil-mailing-list){.btn .btn-primary}
 
 We’d love to showcase how you use AnVIL! If you’re interested in presenting at a future AnVIL Demos session, reach out to Natalie Kucher (nkucher3@jhu.edu).
 
