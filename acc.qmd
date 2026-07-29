@@ -12,7 +12,7 @@ See the [event announcement](https://anvilproject.org/events/anvil2026-community
 
 [![](/assets/acc2026-handout.webp){width=80% fig-align="center"}](https://anvilproject.org/events/anvil2026-community-conference)
 
-Join the Mailing List: [https://lists.anvilproject.org/lists/acc2026.lists.anvilproject.org](https://lists.anvilproject.org/lists/acc2026.lists.anvilproject.org)
+[Join the Mailing List](https://lists.anvilproject.org/lists/acc2026.lists.anvilproject.org){.btn .btn-primary}
 
 **Deadlines**:
 
