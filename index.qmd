@@ -20,4 +20,3 @@ This site hosts all things AnVIL Training!
 ## Support for Groups
 
 - Join our [AnVIL Champions](https://anvilproject.org/anvil-champions) program, where we train community members to become local AnVIL experts
-
