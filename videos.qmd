@@ -3,4 +3,19 @@ title: "Videos"
 output: html_document
 ---
 
-This page is under construction. Details coming soon :)
+Many of our past training activities are available on the [AnVIL YouTube channel](https://www.youtube.com/@anvilprojectorg/). Here are some highlights:
+
+## AnVIL in 2 minutes
+Bite-sized introductions to working on AnVIL.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=LWALGpgjqcBfNrcG&amp;list=PL6aYJ_0zJ4uCABkMngSYjPo_3c-nUUmio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## AnVIL Demos
+30 minute deep dives, exploring capabilities of the platform as well as research projects that are powered by AnVIL. See the [AnVIL Demos](demos.qmd) page for more information.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9IcLoyaQoQwOkBCm&amp;list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## AnVIL Community Conference
+Recordings from our [annual conference](acc.qmd), including keynotes, talks and community discussion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=sQPg_owSOiHcLYKF&amp;list=PL6aYJ_0zJ4uDbUn28tves8OKwrDB7dN32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
