@@ -11,7 +11,7 @@ Bite-sized introductions to working on AnVIL.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=LWALGpgjqcBfNrcG&amp;list=PL6aYJ_0zJ4uCABkMngSYjPo_3c-nUUmio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## AnVIL Demos
-30 minute deep dives, exploring capabilities of the platform as well as research projects that are powered by AnVIL. See the [AnVIL Demos](demos.qmd) page for more information.
+30 minute deep dives, exploring capabilities of the platform as well as research projects that are powered by AnVIL. Recorded from our [live virtual AnVIL Demos](demos.qmd). Join us each month for an opportunity to ask questions in real time!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9IcLoyaQoQwOkBCm&amp;list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
