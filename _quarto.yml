@@ -35,5 +35,6 @@ website:
 format:
   html:
     theme: [yeti, assets/AnVIL/anvil.scss]
+    backgroundcolor: "#F6F7F4"
     css: styles.css
     toc: true
