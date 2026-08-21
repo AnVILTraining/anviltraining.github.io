@@ -30,6 +30,7 @@ website:
       icon: glyphicon-play-circle
     - text: Get Help
       href: https://anvilproject.org/help
+      target: _blank
       icon: glyphicon-question-sign
 
 format:
