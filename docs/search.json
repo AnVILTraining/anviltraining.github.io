@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "anvil101.html",
-    "href": "anvil101.html",
-    "title": "AnVIL 101",
-    "section": "",
-    "text": "Recurring virtual workshop introducing the basics of AnVIL\nOfferings:\n\nWednesday, July 29, 2026\nTuesday, October 27, 2026\n\nCheck back soon for more information!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AnVIL Training",
-    "section": "",
-    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "AnVIL Training",
-    "section": "",
-    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
-  },
-  {
-    "objectID": "index.html#get-started",
-    "href": "index.html#get-started",
-    "title": "AnVIL Training",
-    "section": "Get Started",
-    "text": "Get Started\n\nGet started on AnVIL with our AnVIL 101 virtual workshop\nFind help through our community support forum\nAsk questions live at our monthly virtual AnVIL Demos\nCheck out our upcoming events for additional training opportunities, or browse our docs, tutorials and videos to start learning on your own"
-  },
-  {
-    "objectID": "index.html#support-for-groups",
-    "href": "index.html#support-for-groups",
-    "title": "AnVIL Training",
-    "section": "Support for Groups",
-    "text": "Support for Groups\n\nJoin our AnVIL Champions program, where we train community members to become local AnVIL experts"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "More Events",
-    "section": "",
-    "text": "AnVIL provides workshops and demos at several genomics-focused events. These include conferences such as the American Society of Human Genetics Annual Meeting, the Galaxy and Bioconductor Community Conference, and various Cold Spring Harbor Lab meetings.\nCheck out the AnVIL Events Page for the most up to date list of events."
-  },
-  {
     "objectID": "acc.html",
     "href": "acc.html",
     "title": "AnVIL Community Conference",
@@ -91,6 +49,97 @@
     "text": "Getting Help with AnVIL Components and Tools\nRefer to the following table for help links for AnVIL platform components and tools.\n\n\n\nComponent\nHelp Links\n\n\n\n\nBioconductor\nHelp Hub, Help Forum\n\n\nDockstore\nHelp Forum\n\n\nGalaxy\nHelp Forum, Chat\n\n\nTerra\nSupport Hub, Community Forum\n\n\n\n\nIf your question is more sensitive, please email our help desk."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AnVIL Training",
+    "section": "",
+    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "AnVIL Training",
+    "section": "",
+    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
+  },
+  {
+    "objectID": "index.html#get-started",
+    "href": "index.html#get-started",
+    "title": "AnVIL Training",
+    "section": "Get Started",
+    "text": "Get Started\n\nGet started on AnVIL with our AnVIL 101 virtual workshop\nFind help through our community support forum\nAsk questions live at our monthly virtual AnVIL Demos\nCheck out our upcoming events for additional training opportunities, or browse our docs, tutorials and videos to start learning on your own"
+  },
+  {
+    "objectID": "index.html#support-for-groups",
+    "href": "index.html#support-for-groups",
+    "title": "AnVIL Training",
+    "section": "Support for Groups",
+    "text": "Support for Groups\n\nJoin our AnVIL Champions program, where we train community members to become local AnVIL experts"
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "AnVIL Tutorials",
+    "section": "",
+    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 24 August 2026."
+  },
+  {
+    "objectID": "tutorials.html#anvil-materials",
+    "href": "tutorials.html#anvil-materials",
+    "title": "AnVIL Tutorials",
+    "section": "AnVIL Materials",
+    "text": "AnVIL Materials"
+  },
+  {
+    "objectID": "tutorials.html#gdscn-materials",
+    "href": "tutorials.html#gdscn-materials",
+    "title": "AnVIL Tutorials",
+    "section": "GDSCN Materials",
+    "text": "GDSCN Materials"
+  },
+  {
+    "objectID": "anvil101.html",
+    "href": "anvil101.html",
+    "title": "AnVIL 101",
+    "section": "",
+    "text": "Recurring virtual workshop introducing the basics of AnVIL\nOfferings:\n\nWednesday, July 29, 2026\nTuesday, October 27, 2026\n\nCheck back soon for more information!"
+  },
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "Many of our past training activities are available on the AnVIL YouTube channel. Here are some highlights:"
+  },
+  {
+    "objectID": "videos.html#anvil-in-2-minutes",
+    "href": "videos.html#anvil-in-2-minutes",
+    "title": "Videos",
+    "section": "AnVIL in 2 minutes",
+    "text": "AnVIL in 2 minutes\nBite-sized introductions to working on AnVIL."
+  },
+  {
+    "objectID": "videos.html#anvil-demos",
+    "href": "videos.html#anvil-demos",
+    "title": "Videos",
+    "section": "AnVIL Demos",
+    "text": "AnVIL Demos\n30 minute deep dives, exploring capabilities of the platform as well as research projects that are powered by AnVIL. Recorded from our live virtual AnVIL Demos. Join us each month for an opportunity to ask questions in real time!"
+  },
+  {
+    "objectID": "videos.html#anvil-101",
+    "href": "videos.html#anvil-101",
+    "title": "Videos",
+    "section": "AnVIL 101",
+    "text": "AnVIL 101\nRecording of our virtual AnVIL 101 workshop providing a quick tour of AnVIL and a walkthrough of launching your first cloud computing environment. Sign up for our next offering to receive hands-on help getting started with AnVIL."
+  },
+  {
+    "objectID": "videos.html#anvil-community-conference",
+    "href": "videos.html#anvil-community-conference",
+    "title": "Videos",
+    "section": "AnVIL Community Conference",
+    "text": "AnVIL Community Conference\nRecordings from our annual conference, including keynotes, talks and community discussion."
+  },
+  {
     "objectID": "demos.html",
     "href": "demos.html",
     "title": "AnVIL Demos",
@@ -133,31 +182,10 @@
     "text": "2023 Demos\n\nMarch 23: Introducing AnVIL and AnVIL Demos\nApril 27: Using the Human Pangenome on AnVIL\nMay 18: WARP Pipelines on AnVIL\nJune 22: Using Data Across AnVIL Multiple Workspaces\nJuly 20: Interactive Genomic Data Science with Bioconductor\nAugust 31: Galaxy on AnVIL\nSeptember 21: Epigenetics on AnVIL\nOctober 26: DUOS - A tour of the AnVIL’s innovative data sharing platform\nNovember 16: Machine Learning with Bioconductor: Introduction to deep learning for image classification and application of graph-based embedding for single-cell genomics\nDecember 13: Collecting and Subsetting SRA data"
   },
   {
-    "objectID": "videos.html",
-    "href": "videos.html",
-    "title": "Videos",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "More Events",
     "section": "",
-    "text": "This page is under construction. Details coming soon :)"
-  },
-  {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "AnVIL Tutorials",
-    "section": "",
-    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 10 August 2026."
-  },
-  {
-    "objectID": "tutorials.html#anvil-materials",
-    "href": "tutorials.html#anvil-materials",
-    "title": "AnVIL Tutorials",
-    "section": "AnVIL Materials",
-    "text": "AnVIL Materials"
-  },
-  {
-    "objectID": "tutorials.html#gdscn-materials",
-    "href": "tutorials.html#gdscn-materials",
-    "title": "AnVIL Tutorials",
-    "section": "GDSCN Materials",
-    "text": "GDSCN Materials"
+    "text": "AnVIL provides workshops and demos at several genomics-focused events. These include conferences such as the American Society of Human Genetics Annual Meeting, the Galaxy and Bioconductor Community Conference, and various Cold Spring Harbor Lab meetings.\nCheck out the AnVIL Events Page for the most up to date list of events."
   }
 ]
