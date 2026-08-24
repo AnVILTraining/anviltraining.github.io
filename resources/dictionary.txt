@@ -43,5 +43,6 @@ subdir
 TBD
 th
 VRS
+walkthrough
 Workspaces
 www
