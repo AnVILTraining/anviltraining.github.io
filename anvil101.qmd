@@ -3,12 +3,21 @@ title: "AnVIL 101"
 output: html_document
 ---
 
-Recurring virtual workshop introducing the basics of AnVIL
+Recurring virtual workshop introducing the basics of AnVIL. Join us to get a quick tour of AnVIL and receive hands-on support launching your first cloud computing environment.
 
 Offerings:
 
-- [Wednesday, July 29, 2026](https://anvilproject.org/events/anvil2026-101-virtual-workshop)
 - [Tuesday, October 27, 2026](https://anvilproject.org/events/anvil2026-october-101-virtual-workshop)
 
-Check back soon for more information!
+Please follow the instructions to register for the workshop and set up an AnVIL account, so that you can follow along with the workshop. 
+
+
+## Video Recording
+
+Can’t wait for the next live workshop? Here’s a recording of a previous offering of AnVIL 101.
+
+*Note that, to follow along, you will need an active Billing Project. If you join us for a live AnVIL 101 virtual workshop, we will take care of the Billing Project for you.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKoOEpA8NMk?si=14uHQKpdlsHyKJX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
