@@ -81,7 +81,7 @@
     "href": "tutorials.html",
     "title": "AnVIL Tutorials",
     "section": "",
-    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 25 August 2026."
+    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 26 August 2026."
   },
   {
     "objectID": "tutorials.html#anvil-materials",
@@ -102,7 +102,14 @@
     "href": "anvil101.html",
     "title": "AnVIL 101",
     "section": "",
-    "text": "Recurring virtual workshop introducing the basics of AnVIL\nOfferings:\n\nWednesday, July 29, 2026\nTuesday, October 27, 2026\n\nCheck back soon for more information!"
+    "text": "Recurring virtual workshop introducing the basics of AnVIL. Join us to get a quick tour of AnVIL and receive hands-on support launching your first cloud computing environment.\nOfferings:\nPlease follow the instructions to register for the workshop and set up an AnVIL account, so that you can follow along with the workshop."
+  },
+  {
+    "objectID": "anvil101.html#video-recording",
+    "href": "anvil101.html#video-recording",
+    "title": "AnVIL 101",
+    "section": "Video Recording",
+    "text": "Video Recording\nCan’t wait for the next live workshop? Here’s a recording of a previous offering of AnVIL 101.\nNote that, to follow along, you will need an active Billing Project. If you join us for a live AnVIL 101 virtual workshop, we will take care of the Billing Project for you."
   },
   {
     "objectID": "videos.html",
