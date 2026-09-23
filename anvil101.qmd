@@ -20,4 +20,3 @@ Can’t wait for the next live workshop? Here’s a recording of a previous offe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKoOEpA8NMk?si=14uHQKpdlsHyKJX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
