@@ -32,11 +32,11 @@ We’d love to showcase how you use AnVIL! If you’re interested in presenting 
 - May 20: [GREGoR Data Validation Pipelines](https://help.anvilproject.org/t/anvil-demos-data-validation-workflows-in-anvil-on-may-20-2026/388)
 - June 17: [PRS Analysis in AnVIL](https://help.anvilproject.org/t/anvil-demos-polygenic-risk-score-prs-analysis-in-anvil-on-june-17-2026/393)
 - July 15: [Open Discussion Forum](https://help.anvilproject.org/t/anvil-demos-open-discussion-forum-on-july-15-2026/405)
-- August 19: TBD
-- September 16: Demystifying Cloud Costs for AnVIL Researchers
-- October 21: TBD
-- November 18: TBD
-- December 16: TBD
+- August 19: [Open Discussion Forum](https://help.anvilproject.org/t/anvil-demos-open-discussion-forum-on-august-19-2026/407)
+- September 16: [Open Discussion Forum](https://help.anvilproject.org/t/anvil-demos-open-discussion-forum-on-september-16-2026/422)
+- October 21: [A new Galaxy on AnVIL: lower costs, greater scale, and Galaxy 26.1](https://help.anvilproject.org/t/anvil-demos-a-new-galaxy-on-anvil-lower-costs-greater-scale-and-galaxy-26-1-on-october-21-2026/423)
+- November 18: CM4AI AnVIL Cell Map Prediction Challenge
+- December 16: Demystifying Cloud Costs for AnVIL Researchers
 
 
 ## 2025 Demos
