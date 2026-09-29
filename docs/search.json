@@ -95,7 +95,7 @@
     "href": "tutorials.html",
     "title": "AnVIL Tutorials",
     "section": "",
-    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 24 September 2026."
+    "text": "While you can find core documentation at https://anvilproject.org/learn and https://support.terra.bio, we have also curated vignettes, courses, and books to guide you on your AnVIL journey. Please check out our full collection of AnVIL and related resources below!\nThis page was last updated on 29 September 2026."
   },
   {
     "objectID": "tutorials.html#anvil-materials",
@@ -114,13 +114,6 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AnVIL Training",
-    "section": "",
-    "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
     "title": "AnVIL Training",
     "section": "",
     "text": "AnVIL is NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-Space.\nThis site hosts all things AnVIL Training!"
