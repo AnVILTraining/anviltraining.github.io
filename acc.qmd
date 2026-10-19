@@ -30,7 +30,7 @@ More details available in the [ACC 2026 event announcement](https://anvilproject
 
 ::: {.g-col-3}
 
-![](/assets/ACC_2025_flyer.png)
+![](/assets/ACC_2025_flyer.png){.lightbox}
 
 :::
 
@@ -47,16 +47,13 @@ More details available in the [ACC 2026 event announcement](https://anvilproject
 
 
 
-
-
-
 ### ACC 2024: Nov 12-13 -- Cold Spring Harbor, NY
 
 ::::: {.grid}
 
 ::: {.g-col-3}
 
-![](/assets/ACC_2024_flyer.png)
+![](/assets/ACC_2024_flyer.png){.lightbox}
 
 :::
 
