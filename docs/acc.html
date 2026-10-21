@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-1b1b39dfd5b2f5cc007ad7514424fff6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -192,14 +195,14 @@ ul.task-list li input[type="checkbox"] {
 <section id="acc-2027-greater-dc-baltimore" class="level2">
 <h2 class="anchored" data-anchor-id="acc-2027-greater-dc-baltimore">ACC 2027: Greater DC / Baltimore</h2>
 <p>Stay tuned for more details!</p>
-<p><img src="./assets/ACC_2027_location_announcement.png" class="img-fluid"></p>
+<p><img src="./assets/ACC/ACC_2027_location_announcement.png" class="img-fluid"></p>
 </section>
 <section id="acc-2026-aug-31-sept-1-cambridge-ma" class="level2">
 <h2 class="anchored" data-anchor-id="acc-2026-aug-31-sept-1-cambridge-ma">ACC 2026: Aug 31-Sept 1 – Cambridge, MA</h2>
 <p>Thanks for a great conference! We’ll be posting videos and other materials shortly.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://anvilproject.org/events/anvil2026-community-conference"><img src="./assets/acc2026-handout.webp" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
+<p><a href="https://anvilproject.org/events/anvil2026-community-conference"><img src="./assets/ACC/acc2026-handout.webp" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
 </figure>
 </div>
 <p><a href="https://lists.anvilproject.org/lists/acc2026.lists.anvilproject.org" class="btn btn-primary">Join the Mailing List</a></p>
@@ -209,21 +212,35 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="past-conferences">Past conferences</h2>
 <section id="acc-2025-sept-3-5-nashville-tn" class="level3">
 <h3 class="anchored" data-anchor-id="acc-2025-sept-3-5-nashville-tn">ACC 2025: Sept 3-5 – Nashville, TN</h3>
+<div class="grid">
+<div class="g-col-3">
+<p><a href="./assets/ACC/ACC_2025_speakers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="./assets/ACC/ACC_2025_speakers.png" class="img-fluid"></a></p>
+</div>
+<div class="g-col-9">
 <ul>
 <li><a href="https://anvilproject.org/news/2025/10/28/acc-2025-conference-report">Conference report</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL6aYJ_0zJ4uDbUn28tves8OKwrDB7dN32">Recordings</a> and <a href="https://drive.google.com/file/d/1w71hZewgD4ulA8Js_1Hnheul_khftvb4/view?usp=sharing">slides</a></li>
 <li><a href="https://anvilproject.org/events/anvil2025-community-conference">Event details</a></li>
 <li><a href="https://jhudatascience.org/AnVIL_CoFests_2025/">CoFest</a></li>
 </ul>
+</div>
+</div>
 </section>
 <section id="acc-2024-nov-12-13-cold-spring-harbor-ny" class="level3">
 <h3 class="anchored" data-anchor-id="acc-2024-nov-12-13-cold-spring-harbor-ny">ACC 2024: Nov 12-13 – Cold Spring Harbor, NY</h3>
+<div class="grid">
+<div class="g-col-3">
+<p><a href="./assets/ACC/ACC_2024_speakers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="./assets/ACC/ACC_2024_speakers.png" class="img-fluid"></a></p>
+</div>
+<div class="g-col-9">
 <ul>
 <li><a href="https://anvilproject.org/news/2025/01/21/acc-2024-conference-report">Conference report</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL6aYJ_0zJ4uA6ydpiPQwAH-v4BfVO0hcw">Recordings</a> and <a href="https://docs.google.com/presentation/d/1giB7fMVcOHAW9M5ooVbfkoY2rXB3oH-PuuThT-nOZ3g/edit?usp=sharing">slides</a></li>
 <li><a href="https://anvilproject.org/events/anvil2024-community-conference">Event details</a></li>
 <li><a href="https://jhudatascience.org/AnVIL_CoFests_2024/">CoFest</a></li>
 </ul>
+</div>
+</div>
 
 
 </section>
@@ -631,6 +648,38 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
