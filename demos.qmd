@@ -23,6 +23,8 @@ You can also hear about future AnVIL Demos as well as general AnVIL announcement
 
 We’d love to showcase how you use AnVIL! If you’re interested in presenting at a future AnVIL Demos session, reach out to Natalie Kucher (nkucher3@jhu.edu).
 
+<iframe src="https://help.anvilproject.org/t/about-the-anvil-demos-category/169#p-361-upcoming-demos-3" width="100%" height="500px"></iframe>
+
 ## 2026 Demos
 
 - January 21: [Supporting Self-Service Data Ingestion for AnVIL](https://help.anvilproject.org/t/anvil-demos-supporting-self-service-data-ingestion-for-anvil-on-january-21-2026/368)
