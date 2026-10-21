@@ -10,13 +10,13 @@ Join us in-person or virtually at our annual AnVIL Community Conference (ACC) to
 
 Stay tuned for more details!
 
-![](/assets/ACC_2027_location_announcement.png)
+![](/assets/ACC/ACC_2027_location_announcement.png)
 
 ## ACC 2026: Aug 31-Sept 1 -- Cambridge, MA
 
 Thanks for a great conference! We'll be posting videos and other materials shortly.
 
-[![](/assets/acc2026-handout.webp){width=80% fig-align="center"}](https://anvilproject.org/events/anvil2026-community-conference)
+[![](/assets/ACC/acc2026-handout.webp){width=80% fig-align="center"}](https://anvilproject.org/events/anvil2026-community-conference)
 
 [Join the Mailing List](https://lists.anvilproject.org/lists/acc2026.lists.anvilproject.org){.btn .btn-primary}
   
@@ -30,7 +30,7 @@ More details available in the [ACC 2026 event announcement](https://anvilproject
 
 ::: {.g-col-3}
 
-![](/assets/ACC_2025_flyer.png){.lightbox}
+![](/assets/ACC/ACC_2025_speakers.png){.lightbox}
 
 :::
 
@@ -53,7 +53,7 @@ More details available in the [ACC 2026 event announcement](https://anvilproject
 
 ::: {.g-col-3}
 
-![](/assets/ACC_2024_flyer.png){.lightbox}
+![](/assets/ACC/ACC_2024_speakers.png){.lightbox}
 
 :::
 
