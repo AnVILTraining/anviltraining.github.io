@@ -24,6 +24,7 @@ GREGoR
 HTTPS
 Kucher
 lightblue
+lightbox
 lightgreen
 ly
 NHGRI
